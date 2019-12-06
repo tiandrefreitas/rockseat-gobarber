@@ -24,6 +24,7 @@
     "nodemailer-express-handlebars": "^3.0.0",
     "pg": "^7.11.0",
     "pg-hstore": "^2.3.3",
+    "react-router-dom": "^5.1.2",
     "sequelize": "^5.8.12",
     "youch": "^2.0.10",
     "yup": "^0.27.0"
